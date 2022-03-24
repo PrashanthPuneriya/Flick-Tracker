@@ -8,3 +8,5 @@ A movie tracker app which lets users to create custom lists and let them add mov
 
 ## Project Preview
 One can preview this project at this [link](http://flick-tracker.herokuapp.com/ "link")
+- Praneeth says Yo prashanth
+
